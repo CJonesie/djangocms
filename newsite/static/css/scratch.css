@@ -1,0 +1,17 @@
+#test {
+	color: red;
+	text-decoration: underline;
+
+}
+
+#custom-navbar a {
+	color: white;
+}
+
+#custom-navbar a:hover {
+	color: red;
+	border-bottom: solid white 3px;
+	text-decoration: underline;
+}
+
+
